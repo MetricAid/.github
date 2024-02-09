@@ -28,7 +28,7 @@ List, in point form, the main changes that were made.
 
 ## Schema Changes
 <!--- 
-Provide the queries for the developer to run in PGAdmin to update their schema to work with your branch.
+List any migrations that were created
 -->
 
 ## Involved Branches
